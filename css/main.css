@@ -1,0 +1,5 @@
+.email_val, .not_value{
+	display: none;
+	color: red;
+	text-align: center;
+}
